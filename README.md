@@ -12,11 +12,11 @@ Finalmente, se aplican estos conocimientos en la construcción de un informe int
 
 ## Lo que se llevo a cabo en este curso fue:
 
-> *Aprender a utilizar ChatGPT como asistente personal en el análisis y visualización de datos.
-> *Optimizar el tiempo en la construcción de visualizaciones de datos con ChatGPT.
-> *Aprender cómo construir una visualización de datos personalizada para la presentación a tu público.
-> *Conocer las limitaciones y posibilidades del uso de IA en la creación de visuales de los más diversos tipos.
-> *Construir un informe con los datos a través de los recursos disponibles de IA como Gamma y ChatGPT.
+> * Aprender a utilizar ChatGPT como asistente personal en el análisis y visualización de datos.
+> * Optimizar el tiempo en la construcción de visualizaciones de datos con ChatGPT.
+> * Aprender cómo construir una visualización de datos personalizada para la presentación a tu público.
+> * Conocer las limitaciones y posibilidades del uso de IA en la creación de visuales de los más diversos tipos.
+> * Construir un informe con los datos a través de los recursos disponibles de IA como Gamma y ChatGPT.
 
 ---
 
